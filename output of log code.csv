@@ -1,0 +1,6 @@
+source,type,timestamp,extracted_values,thread_id
+/content/sample1.json,JSON,2025-05-31T16:53:17.535269,{'intent': []},thread_1
+/content/sample1.json,JSON,2025-05-31T16:53:17.535448,"{'name': 'John', 'age': 25, 'city': 'Sampleville', 'married': False, 'hobbies': ['reading', 'traveling', 'programming'], 'address': {'street': '123 Main Street', 'city': 'Sample City', 'postal_code': '12345'}}",thread_2
+/content/sample-pdf-file.pdf,PDF,2025-05-31T16:53:29.933343,{'intent': []},thread_3
+/content/test_email.txt,Email,2025-05-31T16:53:29.933819,{'intent': ['INVOICE']},thread_4
+/content/test_email.txt,Email,2025-05-31T16:53:29.934145,"{'sender': 'jane@example.com', 'subject': 'Request for Invoice', 'urgency': 'normal', 'body': 'Please send us the invoice for April.'}",thread_5
